@@ -10,5 +10,9 @@ public class Student {
 		}
 		return (sum/6);
 	}
+	
+	public void m1() {
+		System.out.println("Student.m1()");
+	}
 
 }
